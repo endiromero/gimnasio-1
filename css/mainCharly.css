@@ -1,0 +1,104 @@
+/*CARLOS*/
+
+.cuerpo-registro{
+    padding: 30px 0px 30px;  
+}
+
+.cuerpo-registro .texto{
+    margin: 10px 0px 10px;
+}
+
+#gym{
+    width: 90%;
+    height: auto;
+    
+}
+
+.cuerpo-tabla tr td{
+    text-align: center;
+}
+
+.cabecera-tabla tr th{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#agregarPerfil{
+    padding-top: 10px;
+}
+
+.tipoH2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.titulo{
+    margin-top: 20px;
+    background-color: #d1eaff;
+}
+
+.titulo-nombre{
+    padding-left: 100%;
+}
+
+.img-marca{
+    max-height: 200px;
+}
+
+.cuerpo-tabla tr td select{
+    background-color: #e1ebf4;
+    border: none;
+}
+
+#grupos_Actividades > li{
+    list-style: none;
+    padding-bottom: 16px;
+}
+
+#grupos_Actividades{
+    padding-top: 20px;
+}
+
+#grupos_Actividades li ul li{
+    list-style-type:square;
+}
+
+#tituloTipo{
+    padding-top: 10px;
+    padding-left: 45%;
+}
+
+#contenedor_Tipo_Actividad{
+    border-bottom: solid;
+}
+
+.tituloFilto{
+  font-size: 16px;
+  padding-top: 4px;
+  padding-left: 8px;
+  border-bottom: solid;
+  background-color: darkgray;
+  cursor: pointer; */
+}
+
+.divFiltro{
+    border:solid 2px black;
+    margin-top: 34px;
+}
+
+.radioFiltro{
+    padding-left:10px;
+}
+
+.btnFiltro{
+    background-color: transparent;
+    border: none;
+}
+
+.spanFiltro{
+      padding-right: 10px;
+}
+
+
+/**/
